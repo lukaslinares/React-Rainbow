@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+div{
+  height: 50px;
+  padding-top:.01px;
+}
+
+.button{
+  padding-top: 50px;
+}
+
+h1{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
